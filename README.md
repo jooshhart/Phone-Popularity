@@ -2,7 +2,7 @@
 
 Phones have always had a big impact on how people process the world. By understanding the brands with the highest popularity, we can understand their influence as well. By understanding popularity, we are capable of understanding what brand is more highly valued in society. The code made in this program is displayed in r in order to first understand values found in phone sales, then to change the layout of those values, and to finally visualize this altogether as a final overview of phone sales and popularity.
 
-[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/G3RAfyLA98I))
+[Software Demo Video](http://youtube.link.goes.here](https://youtu.be/G3RAfyLA98I)
 
 # Development Environment
 
